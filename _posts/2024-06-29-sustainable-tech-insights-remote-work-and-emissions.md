@@ -1,8 +1,9 @@
 ---
-title: "Sustainable Tech Insights: Remote Work and Emissions"
-date: 2024-06-29
-tags: [sustainability, green-tech, innovation]
 layout: post
+title: "Sustainable Tech Insights Remote Work And Emissions"
+date: 2024-06-29
+categories: [Sustainable Tech]
+tags: [technology, sustainability]
 ---
 
-In this edition of *Sustainable Tech Insights*, we explore how remote work and emissions is reshaping the path toward a greener future. This is one of many efforts to align innovation with ecological responsibility.
+This is a placeholder post for **Sustainable Tech Insights Remote Work And Emissions**. Content will go here.

@@ -1,8 +1,9 @@
 ---
-title: "Sustainable Tech Insights: Carbon Capture Advances"
-date: 2024-01-16
-tags: [sustainability, green-tech, innovation]
 layout: post
+title: "Sustainable Tech Insights Carbon Capture Advances"
+date: 2024-01-16
+categories: [Sustainable Tech]
+tags: [technology, sustainability]
 ---
 
-In this edition of *Sustainable Tech Insights*, we explore how carbon capture advances is reshaping the path toward a greener future. This is one of many efforts to align innovation with ecological responsibility.
+This is a placeholder post for **Sustainable Tech Insights Carbon Capture Advances**. Content will go here.

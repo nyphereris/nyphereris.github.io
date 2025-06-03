@@ -1,8 +1,9 @@
 ---
-title: "Sustainable Tech Insights: Sustainable Logistics"
-date: 2024-08-13
-tags: [sustainability, green-tech, innovation]
 layout: post
+title: "Sustainable Tech Insights Sustainable Logistics"
+date: 2024-08-13
+categories: [Sustainable Tech]
+tags: [technology, sustainability]
 ---
 
-In this edition of *Sustainable Tech Insights*, we explore how sustainable logistics is reshaping the path toward a greener future. This is one of many efforts to align innovation with ecological responsibility.
+This is a placeholder post for **Sustainable Tech Insights Sustainable Logistics**. Content will go here.
