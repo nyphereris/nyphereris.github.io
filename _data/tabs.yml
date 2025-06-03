@@ -1,0 +1,18 @@
+≈- name: Home
+  icon: home
+  url: /
+
+- name: Categories
+  icon: categories
+  url: /categories/
+
+- name: Tags
+  icon: tags
+  url: /tags/
+
+- name: Archives
+  icon: archives
+  url: /archives/
+
+
+
