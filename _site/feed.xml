@@ -1,0 +1,143 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4001/</id>
+  <title>Chirpy</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-06-03T00:55:35-04:00</updated>
+  <author>
+    <name>your_full_name</name>
+    <uri>http://localhost:4001/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4001/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4001/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 your_full_name </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Sustainable Tech Insights Iot And Energy Efficiency</title>
+    <link href="http://localhost:4001/posts/sustainable-tech-insights-iot-and-energy-efficiency/" rel="alternate" type="text/html" title="Sustainable Tech Insights Iot And Energy Efficiency" />
+    <published>2024-12-11T00:00:00-05:00</published>
+  
+    <updated>2024-12-11T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4001/posts/sustainable-tech-insights-iot-and-energy-efficiency/</id>
+    <content type="text/html" src="http://localhost:4001/posts/sustainable-tech-insights-iot-and-energy-efficiency/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Sustainable Tech" />
+    
+  
+
+  <summary>This is a placeholder post for Sustainable Tech Insights Iot And Energy Efficiency. Content will go here.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Sustainable Tech Insights Battery Tech For Sustainability</title>
+    <link href="http://localhost:4001/posts/sustainable-tech-insights-battery-tech-for-sustainability/" rel="alternate" type="text/html" title="Sustainable Tech Insights Battery Tech For Sustainability" />
+    <published>2024-11-26T00:00:00-05:00</published>
+  
+    <updated>2024-11-26T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4001/posts/sustainable-tech-insights-battery-tech-for-sustainability/</id>
+    <content type="text/html" src="http://localhost:4001/posts/sustainable-tech-insights-battery-tech-for-sustainability/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Sustainable Tech" />
+    
+  
+
+  <summary>This is a placeholder post for Sustainable Tech Insights Battery Tech For Sustainability. Content will go here.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Sustainable Tech Insights Urban Farming Innovation</title>
+    <link href="http://localhost:4001/posts/sustainable-tech-insights-urban-farming-innovation/" rel="alternate" type="text/html" title="Sustainable Tech Insights Urban Farming Innovation" />
+    <published>2024-11-11T00:00:00-05:00</published>
+  
+    <updated>2024-11-11T00:00:00-05:00</updated>
+  
+    <id>http://localhost:4001/posts/sustainable-tech-insights-urban-farming-innovation/</id>
+    <content type="text/html" src="http://localhost:4001/posts/sustainable-tech-insights-urban-farming-innovation/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Sustainable Tech" />
+    
+  
+
+  <summary>This is a placeholder post for Sustainable Tech Insights Urban Farming Innovation. Content will go here.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Sustainable Tech Insights Decarbonizing Ai</title>
+    <link href="http://localhost:4001/posts/sustainable-tech-insights-decarbonizing-ai/" rel="alternate" type="text/html" title="Sustainable Tech Insights Decarbonizing Ai" />
+    <published>2024-10-27T00:00:00-04:00</published>
+  
+    <updated>2024-10-27T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4001/posts/sustainable-tech-insights-decarbonizing-ai/</id>
+    <content type="text/html" src="http://localhost:4001/posts/sustainable-tech-insights-decarbonizing-ai/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Sustainable Tech" />
+    
+  
+
+  <summary>This is a placeholder post for Sustainable Tech Insights Decarbonizing Ai. Content will go here.</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>Sustainable Tech Insights Clean Tech Funding</title>
+    <link href="http://localhost:4001/posts/sustainable-tech-insights-clean-tech-funding/" rel="alternate" type="text/html" title="Sustainable Tech Insights Clean Tech Funding" />
+    <published>2024-10-12T00:00:00-04:00</published>
+  
+    <updated>2024-10-12T00:00:00-04:00</updated>
+  
+    <id>http://localhost:4001/posts/sustainable-tech-insights-clean-tech-funding/</id>
+    <content type="text/html" src="http://localhost:4001/posts/sustainable-tech-insights-clean-tech-funding/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+    <category term="Sustainable Tech" />
+    
+  
+
+  <summary>This is a placeholder post for Sustainable Tech Insights Clean Tech Funding. Content will go here.</summary>
+
+  </entry>
+
+</feed>
+
+
