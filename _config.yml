@@ -31,6 +31,9 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://nyphereris.github.io"
 baseurl: ""
+:contentReference[oaicite:29]{index=29}
+
+
 
 github:
   username: github_username # change to your GitHub username
